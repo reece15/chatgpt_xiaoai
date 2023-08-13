@@ -42,3 +42,4 @@
 - [pandora-cloud-serverless](https://github.com/pengzhile/pandora-cloud-serverless)
 - [旧版的拦截器(已失效)](https://github.com/FlashSoft/mico)
 - [pandora-cloud-serverless 类似项目](https://github.com/ncs1024/pandora-chatgpt)
+- [获取/data目录可写](http://javabin.cn/2021/xiaoai_fm.html)
