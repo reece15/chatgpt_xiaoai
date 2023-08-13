@@ -38,7 +38,7 @@
 
 ### 有用的信息
 
-- [获取OPENAI access_token](https://ai-20230626.fakeopen.com/auth1)
+- [获取OPENAI access_token](https://ai.fakeopen.com/auth1)
 - [pandora-cloud-serverless](https://github.com/pengzhile/pandora-cloud-serverless)
 - [旧版的拦截器(已失效)](https://github.com/FlashSoft/mico)
 - [pandora-cloud-serverless 类似项目](https://github.com/ncs1024/pandora-chatgpt)
